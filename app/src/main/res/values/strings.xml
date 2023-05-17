@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dibujoprueba</string>
+    <string name="imagen_subir">imagen_subir</string>
+    <string name="b1">nuevo</string>
+    <string name="b2">pincel</string>
+    <string name="b3">Guardar</string>
+    <string name="b4">Eliminar</string>
+    //colores
+    <string name="c1">negro</string>
+    <string name="c2">amarillo</string>
+    <string name="c3">rojo</string>
+    <string name="c4">rosa </string>
+    <string name="c5">azul</string>
+    //pincel
+    <string name="t1">pequeño</string>
+    <string name="t2">mediano</string>
+    <string name="t3">grande</string>
+
+
+</resources>
